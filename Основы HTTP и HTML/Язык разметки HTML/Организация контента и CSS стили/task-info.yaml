@@ -1,0 +1,258 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: eferBCJRUpIZ4ayufvWxuWrBZmK6TKQctwAe5ytqCnkeaFcLE2GBr/ZOfCGo7jXN7CS3Dc7t/FfngtrQTwhODbjb1eEDBzavQG7GYUVnoAc=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+- name: winter.html
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 986
+    placeholder_text: |-
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <title>Зимняя страница</title>
+          <!--TODO Подключить файл со стилями styles.css-->
+      </head>
+
+      <body>
+          <!--TODO Добавить header из файла index.html-->
+
+          <main>
+              <div>  <!--TODO Добавить классы container и text-container-->
+                  <h1>Добро пожаловать на зимнюю страницу!</h1>
+                  <p>Сверкающие снежинки и аромат горячего какао — зима встречает нас своим холодным волшебством.</p>
+                  <img src="images/winter_image.jpg" alt="Зима">
+              </div>
+              <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                  <button class="styled-button">
+                      <a href="autumn.html"><==Осень</a>
+                  </button>
+                  <button class="styled-button">
+                      <a href="spring.html">Весна==></a>
+                  </button>
+              </div>
+          </main>
+
+          <!--TODO Добавить footer из файла index.html-->
+      </body>
+      </html>
+    initial_state:
+      length: 986
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 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
+  encrypted_text: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSm7wslXd1bRquFD5gC6KVMB67ZEbEQFu9pmqZAik0atI4iiw5I44MsaH10vvHBWCrzZgd633Wf5Q8Qug8nZWqDFExjd9YUsWei0jybwFStp9+OVnhLVVmkR4nOjT+dZK0ScEgOcwAiGio3/L/ctYSRbaaPFgC84UWmtzE6ER2AXxWjLtat1GYto5q2d+53GR623QUzsfyIKpf2h9wteS0W8/wbPmbj0ZRnOhSCd9XpzUCF5rz2t9QznJpeXVcEFO5WYyv2tKagOAQJWYGzj0zN6Of8edUhGKYjZxnN06g6xBrBLwUkfOY511dbY0j4C9K7Ftq/YKcHpa9QyPn7bpnjlHFSm4q26EJLpMABZpmC2f5Zg8SFwkD0oqxvIXT7AC3wazX4Akg0YHMFo0KuOXdGhEVsMMC+DM+7hCgB7VRxuWjrUfIpa6zxRG6T8h28YaGS1j2PSbZkf090YYrUZZFCR/GqHJe/YL+L+lNTXRs7ZL0WTzgTHxcnSCk2hFtuS/XLsbU/A7CAxRMZHvxV3R+j9r/ff/VFlaL36ByUXxMJnt1NgzDLb4A0KOhztFU0PO1jKE/KcR9e7Y/QsvNxoZVNmlFA1jUjIfRz5IZhyHqQfYNJCC0Ydjm92yNKHRVnS8T/y3+HxhYXo0bkmfnZ2t6PgWEA82MymwdeipuSYEtRFNz6Fy7Wrdv6Z8KCtbvfNTHjZNcJ+WKfRjDnvcU8woFi6uoKSs0bDJ3geE+G2F1IemPck6DUt1AZiKbdZUFG2AwmgcXcIZpgdInJJw5tD4puANeAH+9cG/Bb71MH7hGJCwRjlGABivyedQ0CenDcGj+4pAVQaGsOmpq7qAut4zOE7XEl095JtRV58t+i6npTkm7CpYEBQSQCYSdiMYh9+ea8rAtTp39CBLx1RKX+fV5fJVkOO3r8r3CqiFEuC6G00ATeBd64mTfD1I8v67OnEtN6zbaxomyzGuKGaWZPcyQYZlAnhKFc12Q8epHi+MQNclhzvY+/S294B1JvEJuHMz3INB9twNUXEBd76wfU6I/0oCoiutrbNrGYEkPGsYFHljDZGau9HyJ4XJUIlA8LBBWw4A/1q9b2HS8A/hfPfU4bqY81Gxjy/qZ9Y2RLCMu1CrCXpIf4+XJum0O/wDvpP0rS6W0nXBhKwrHEqZLpXTp4kbHmEgkvs599y4C5lmTbKZpTE6dUgyWp+41VuPQmi3iaNyC6vhqQ28ajwGkCSeyqIivKX5DOCU4ePDt50cpLC8KicSIAfZo1LHPDaOHceYDx3Zu8YSqz1a47h72Mc0NK+r5XHk84VSe+pClvbuZ36oYCDp4gOUpqGGkyTJ6TGfPo+ztnKyLpSVskDKq6m30FNjpA4F+OyOtK1Fvg1otp2fxhD9Q5CyVUp73ureQZ2n5otHoAVADVABPLhcF1r47JwZXfo5Nhd1mjX3T5e9Lr17hd6cSsBKBmKqZsDduWOGq7qtoOVsfEcDzHtyeJkADwd2NkpO7dgP5Xj+X6G1xdNnpw44+Fi2wKZ6pMOROhmHlEYFmxQ5+Rfm0OXQduXvup1hlRBrmTcOQd9T6kPTAeCp
+  learner_created: false
+- name: autumn.html
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 1000
+    placeholder_text: |-
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <title>Осенняя страница</title>
+          <!--TODO Подключить файл со стилями styles.css-->
+      </head>
+
+      <body>
+          <!--TODO Добавить header из файла index.html-->
+
+          <main>
+              <div>  <!--TODO Добавить классы container и text-container-->
+                  <h1>Добро пожаловать на осеннюю страницу!</h1>
+                  <p>Словно разноцветный ковер, листья устилают землю, приглашая нас на прогулку в этот уютный сезон.</p>
+                  <img src="images/autumn_image.jpg" alt="Картина осени">
+
+              </div>
+              <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                  <button class="styled-button">
+                      <a href="summer.html"><==Лето</a>
+                  </button>
+                  <button class="styled-button">
+                      <a href="winter.html">Зима==></a>
+                  </button>
+              </div>
+          </main>
+
+          <!--TODO Добавить footer из файла index.html-->
+      </body>
+      </html>
+    initial_state:
+      length: 1000
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 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
+  encrypted_text: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSo+MnPrKuCJWREAZc+dEIWHdLYWZ7oyzVStGKS2DGGzVF+9osCtUxz1ABi7cdWWrNxiZJU2aF0DQgN6Hgkq4yZXLIE6pjXK3MlOOfzo/j7zOpDfHpGP6j+Gi6GjhCLymiKS6gaZPXHsGNlfWQ1Z/JQ64Ozc5m2F/hpKVialfJe9CDbKZum36WNjqzeyD5J93+sEA3p5rpLe5O6TsW8WRhh34lqkm8GhrJ0QskL3fpTNlwOhc4s+aKc16lc6KzjrG06DMXkV7XEkCKgUww6pVdW+nfy5wUEtXKST3yjyf4tgStAtHgby8SyGplOoRNrVJbnlJloD1Obo+R8yeWwvbqs0q9eof5YUKr+Vl9kZQ3PdlrivDtcV5iAf8DF5TJ38i8x+6TKxWlWepPIlztZf5BicZavHpvmgemZZ6vIcxM+Op0GsvNR6SiY5qYugtMahwZ7Pdq0GLIuen62hxdcp+EpJPN89WWJ01Hhkyo2QMGgJQuuQ3WhiDy6gpvWnBq611OjX1Q2qjsFjD9lPRAWkxhrfi1ehUUdrbr8NhSSowxBLxXIQI5SjECHxBygnTOGwIym7KBnXarbOCEjigA+mMu4Rs1OI3kNIO7cBrimSn3kjgCeyqUsFdyKJ/WJX5+oUgXIqfz08FHVlbAF9pTAzffNAx/izhP/J+z7/8XduMWRX+sX4wDuDUtLc4kWGNMoqR7vjAijsn4VkixJrwVKzWPIz7PVr4xM5SrUcIe1hMVelYc+2pLsFOX6eEQmAHxHg6i1jGbm3VQ/IJtiCmpmBfnl4LHhkYkbKiOozQ0gE0zuGCoAV0uqN/ZioM6o6RbgB921+KGylZsqKMD+gmXLrgjI9LeITPtH7uHKitM222tsZtWL64KJAVbUB6Q7KQae+JlqKzVxgzZo2wpsrqMyE/sMZtjWE6Pu4fbMumzw3oJt1Gq5fJKxzxW7CDi8IANBCja+Q0YBZh445PonFWBJTXTVJfvAIbKs5qGvzicmoHEiYYqa5uE5O5QB/zFWZ00SdYtne+iBImahGgvg7wqpczF2n3dja6G5TITnXWN1UEbs5W5CQxDc2juFEJxttXx0Tfj3X1AIVZ8fHYTw8ksD9OBE9HZPGaWQeNyWKUNINEZe1I99ALZ62zu7PGzt67cijvL/7Fivlv+h2PKcVu7x4c1sjLZL0tuomQJkHkpg6DO1UFf4QBCXn7VI45nRkb9htvo7b3sik9Om1KsUmqDoYAy5RS4/0sOyFo+iipJcDbzSb+nQj2cVw7i4VKlMgr1v9gIdfrmCaawtw6xwH9fmbf+dPsSpYgn2kkq7qWCbcfJ2aZWbAZhDqHCnfxxhYGRI9ec5O3MFnrWYGL2jZqYj214VR4XxUHW34IgnXaopQ/1ijzBKcrOIXVXBC+K2DLoFGLAQTuZfjlG3meTaLCfES2F6o+IYJma2bixs36xVLOP3UEd80HPFSVca9ltE4ZOXum/qzF1k5ufK+jcly9wWfWcHM5VLxBvePcowK9DX2r0fCqxM6QO1ICP9I5Y5+Yc+PPKPLwJ/rd6VhV7wc3wl1S8ITqm+iyAYRrbiNH9eQC+0Gn0pdwwlXWC8QY0H0+tZ549Q==
+  learner_created: false
+- name: spring.html
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 994
+    placeholder_text: |-
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <title>Весенняя страница</title>
+          <!--TODO Подключить файл со стилями styles.css-->
+      </head>
+
+      <body>
+          <!--TODO Добавить header из файла index.html-->
+
+          <main>
+              <div>  <!--TODO Добавить классы container и text-container-->
+                  <h1>Добро пожаловать на Весеннюю страницу!</h1>
+                  <p>Пробуждение природы, расцветающие цветы и пение птиц — весна наполняет мир новой жизнью.</p>
+                  <img src="images/spring_image.jpg" alt="Картина весны">
+
+              </div>
+              <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                  <button class="styled-button">
+                      <a href="winter.html"><==Зима</a>
+                  </button>
+                  <button class="styled-button">
+                      <a href="summer.html">Лето==></a>
+                  </button>
+              </div>
+          </main>
+
+          <!--TODO Добавить footer из файла index.html-->
+      </body>
+      </html>
+    initial_state:
+      length: 994
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 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
+  encrypted_text: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSqeY8vArIhBr46697QhYiAwTSwGFxy15/Jh4G3fya6eEAQnCk05jgNBRWV4q7gSc9O7epT8nDo3K0TnHiwMn1bwMSeFIYeX/Eq1X8CZjzNfN2uwmwXemMo6C6s1tVsir/uKCadbpZwGcrqpu9aDIdVtli7+oEZlihI7rsOqhMrQd2L/lWCuQPt5aJe/8/jXLFH1/8qIyPzSW5wOEHaclLF41HBV4ZMcFqTD9Gq4De2Yk7mpM3x/sHCkCjxUq6ueBYvnDa0zB3uPWefTkCFlSp96ksh9TXB4j1Ia5AHqJTg9rawjHvnTqJLw8S3HphQPiHUbhK36DxCqlW5AWRGSoeh6dO0zlXMqWq0kK95euXqa+z6gDvcEuVMcwrGryIsJty6ppCRSaVaJCz8CGsZugMdxfzrAafZRQeWQ3kd2+XZiXg322bZAct3wugRjY3uxXbDf/R6V5TWbyzBthL5nz1sQyh0y/D4i6FMoPqK8WD1amonUlGn6y21xGEVm0Y1qirWIu/OMETyjfiE5G1UX/A4OLv11Q4A37/qmhYMZ7bz8VQo0VDHMUQCAXXgKptFRDPAGziyXH/A7EuVo64rjrqWmoVQfYI8tzdwg3aNlEpx7MQA1idfNZ6NZ/Lg75tI6ipLqLM0gCCdHhTiPFLzNg1P/YON9yRh+5IG9RmB+CYeS+OmizLzJ0pVqmWIfAJzN+q2lRpObOT8PQmZyTXOd7N6CyWHy2fJTjqRcSDbWHMKALAaPLC+WFS6GE7vABWddutBeAwf0F3izRos5b0GDnAzIUaCoC2EgmMIZSmpIfTv1VeQclFGRUO4ZWupZk9fgScKh7fA4yWk+J+rtFTmmBQ1HMw5kBASPKi2xjI6ibGqCV2p7uo12BNgVpoq7T17apow/kgOR8ZxmN3Ypmh6TL9CkUX5NvwhjJbCicXBlo449aWXBHEOYAZXVvnKkmv2cDMcWCSRcxYg8hs6JpznJyg4WiNwftf6nMKQG4C8a3J4hhPHPJ++lsA8hKePECSZsO28c9AYcXtPp6CaRbJ2Qs1tP4zu8Athjs8d+6Ea+HlOIGXVb6FWHVZruxrfi9ppWpCWUfrOiVuq+LYYysz+FlLSZiKUjZ+w0Kbgdyyvp7MPV7NWZyfQ30C3xUgTXg6u36n5dhSCuLx3wvdySs/VDY2CwfTy4JsxtO0civLrMBFRr01GFB0PHeFbWGbOzeqYPnzoomdMGdvvroEPptWlXR7jZkYq/IlsbbnBkAOztFOf7daL8gsJ32tK56if8a1WrmASJMG5NanLmksQJ6w62tdENtngxHKXgyJmPunY7sgIJ9AOCjNCSEjOdveGdkAZhD6nUdE7h33iotQQmISyEN62rQnTBGTMEoy+FE+ryR4YxivmPRUyNejhfsP/62VJOEng4Mfvy3Umx6Gz+a6/2QMU+wp34Kga2a2EbIxCkbVUgXsBvlrSlF/jwtDHWlI0ad43UCbcjGavNdpc2eu2PvSG+hX6Xl7B21cOvO2qK7X3NJoWW+l70Ac4RYUBenGgcigf/a8x4HFXRGlJAlWXZTpBpvIUX9iCIDCuZDfw82Y5mWefyv2rmGamUjg1n/iD49hQ==
+  learner_created: false
+- name: summer.html
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 993
+    placeholder_text: |-
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <title>Летняя страница</title>
+          <!--TODO Подключить файл со стилями styles.css-->
+      </head>
+
+      <body>
+          <!--TODO Добавить header из файла index.html-->
+
+          <main>
+              <div>  <!--TODO Добавить классы container и text-container-->
+                  <h1>Добро пожаловать на летнюю страницу!</h1>
+                  <p>Яркое солнце, теплый песок и прохладное море — лето приглашает нас на отдых и приключения.</p>
+                  <img src="images/summer_image.jpg" alt="Картина лета">
+
+              </div>
+              <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                  <button class="styled-button">
+                      <a href="spring.html"><==Весна</a>
+                  </button>
+                  <button class="styled-button">
+                      <a href="autumn.html">Осень==></a>
+                  </button>
+              </div>
+          </main>
+
+          <!--TODO Добавить footer из файла index.html-->
+      </body>
+      </html>
+    initial_state:
+      length: 993
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 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
+  encrypted_text: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSkw7kx3OwrN+703q+pAjI3e43NJh2w7bVb0RQ2ddj6+Cq4cGFzMO0oOdWjDl7bfumGQ9A+agrNeBRTYnZMDj4LFCCRZHEV17tJz/AZroXXWQhBnFD8mcSC41fogvduBIWhQCwqe9JVtOVcEAGQq45lwwp+I+6SywBd4ndIOR4Urpl+WIisXoqqqkWwhtdJBVKKHnrx3OSesMfx0oIrlkQG8dAhUp/jZ7owDOEkWwhKgyTxg8kBne5DZFEqoZfhfP6+73e4D0R9/cvZkIStgowX5Czxjp+cn0wVcrYkVraqpnGLinA3OsVtbC1qMkmbShPpSrUnGigC5HiTQMCvNyIBSYJ1lwsSUngWGNTapV/p4jWq7jstpFYDWZPfsqy2AN45P5f7aahOy9/Jm1474y7HlPaowzescf5dXP4/fdkZq81PVg5/bKEXOX18T5R7AWIHKTpayyqaWl6564yvIdQ6i22SG1ysVqjcZS5ufXmD0OMWGmLd1k5w9pxsIptNaJE5RoCcvGAWEyX81IsLYGpfP0GwXVCivTTNsrs/YhC7dYnziYZohW/Yisr2UwVsFzTW7g8b+4cDe3VHQ97QIHVU4YHNzlf1p5EIk3YZF/cc8YodsxkXXJj6d0cZBeuQK8BQ8/qfuyGLTNU3eV8Kymm6SYLVxh1CuDEBSKK2TpLqr61O4q1+8Tz/C1bvmHgZLKHViD0G66KKiFw3XKJ5po0782n9a3YeMqCTIrFVtCDSYw047eghHKZVDQCTb5XwMNwytEWRWubvqeEpR7X5oBBtbr0jBXyJMtOGmlVIET3Aj4gNsnDIWQLTw2ZrU6x2DxYST5S2XQjbBzy/Mn6bdKbMvGs72liI9kI7YRSrPmEd9dtzb2Pew4Bv8GKiHzmf16vPMR6kCKb4bb+/HRLiEhZrO6tKjfD/pmtH3SksPZ/D6v67tO7vBKU4LrRiETC0GxKJlJHLvTKq+fiuhnJpOHwgIysxMmnN3zZPtY5gQDoiYraaMHNIdDRh0t0HEOpIzgHahbFr4eRxQnlowrx1mn2z+sqRUWGti17Iqo+DwgSQegqPBTMRFPoWR0YO4ckUuJJZRR5UGc2I8VF7opdxihOyVSIvdoPefVGoPvquZK72+6tG10uR+PaSFaQE6z+Jo+N+fw++kZoxQPtl1KZ5Vd2xUiAaWRiOQuAZoa9XzhM0OwvaCuaW6sKPQLpmoa6JG+JeX97briFeFAgDMyWolqVWiTePPCuK1Y0kQbdwRqYe8drIx5xIlLYAvKbtDs+EcnVSV5ycMtJadvYGsfLe2OwovmdB7lnA02R0u40baQRb5HnUTr3DtH5SfVDjdaB873ZXsyER6lU+grp3hVDBvBypjMA8XnKHkAXMKMylgOgkJ8IgfDHxsGRpo9+NtYFCuymSfWZY/MyJ0ruAZ7PbJSNJ3OLtbflrPpYWLDsuov6bPSqeT86v5O3JNhQyNilRZ26qSLgGkaagBekFMP+0yP9m5ByVCY6bsnEPodfAJvvHq7izasLPsjL+PhncJs+N4lJEwwblo32NmEJc6FJ35l+/b1R2anFvpdbf72GqF1gcCE
+  learner_created: false
+- name: index.html
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 1091
+    placeholder_text: |-
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <title>Сезоны года</title>
+          <!--TODO Подключите файл со стилями styles.css-->
+      </head>
+      <body>
+          <header>
+              <div>.<!--TODO Добавьте класс container-->
+                  <nav>
+                      <!--TODO Замените все ссылки на актуальные-->
+                      <h1>Навигация</h1>
+                      <a href="#">Главная</a>
+                      <a href="#">Основы HTML</a>
+                      <a href="#">Основы CSS</a>
+                  </nav>
+              </div>
+          </header>
+
+          <main>
+              <div> <!--TODO Добавьте класс container-->
+                  <h2>Времена года</h2>
+                  <ul>
+                      <!--TODO Замените все "#" на актуальные ссылки-->
+                      <li><a href="#">Весна</a></li>
+                      <li><a href="#">Лето</a></li>
+                      <li><a href="#">Осень</a></li>
+                      <li><a href="#">Зима</a></li>
+                  </ul>
+              </div>
+          </main>
+
+          <footer>
+              <div> <!--TODO Добавьте класс container-->
+                  <p>&copy; 2023 Все права защищены</p>
+              </div>
+          </footer>
+      </body>
+      </html>
+    initial_state:
+      length: 1091
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSguFU+kjMTebNp7xcWk2BalwGr2tNQLXejulI1kZPZEsasWKC+N5dMSdOpvj7s6IUntU3dGxUgNGHkGJTXImVwqv/i3JUOFOkUgidNZSQK/tpD+EvodzGwJMoOwRZjdt0nbxSUOeRa+IIXf3oJVHSYkxlOtcFOPniDFA4oEWT7whQ+8H78xNB2J0bfTqPqPNbEUDNRx5VNn2bvAumpQMbNE4pFFSHRFHXaj9d+E6iATn0VVzSCxcc8hwRKA3nOkJpcUmEGWR1awfOowrNRjBk47DjieRmsi67sogdQ+8YKblkfxEPU3aljxyUZKSOLsZjQgjnm0AeqU19gLgpIefCqCQ+eIQoYOggLckT7w3Ykl99vFN7aGoITaStoJ5yubWuI4Q4a9xFObq9P7iBxzKQmtxL9w916j9DsCtzrvqoVMOVQbDGsROno+SZkoaRC9vc0QhxIfF/kvFEX0zN5gPMaTrHzkqr0THO9DaEAJEdPdoH8tdUxwq4fJsUwKcaauhfNh9uvb1RLDcSf6ccNlV5Mc3/Fd0Qy2OLCWEZqCfrQhcqdPbkUTrhhDIxw/rRVg9+rznMDzl6ThWZDn36IVeJCgUUTv5YNhjP9netfiatvwkaqpT3IyHShpJuH7p2PY9FH8BZov7Oq2SXZY0GPUfvu5mOZcLJQfWdqhWViIrAGm1Y+Elx8iUkWqlomhRkHHQcj3aGZQ0/O06213kX/zkm9MKJwz/wduJflvxFJ8mJf4M5Qsgbh4SQlvEzcD+7Map+ObbHW+gxBZGQHPh+8CEwBggqgOOWgP+951gF/ksW7QkukUrsuWUZnT2BY1/vbLBcqJgGyoTl0p50l3FGS5KB8I+th0AsuiEYFQPNHF+m2RsRFe3Ewfke8EBCUUOvYpBU9JZyquEQKKKhaEbyiD3mkT4Ny3vYDg69Xsh/GK/ngk9cuYAKD7uVry2bp6Mqjuc8qJ90KkBz1uOGoh+2Oxjuzg0NxBl6+SY9I55XhC2RTVsrDuwXkuehzwbNJ2eg6GtmxNB/ec/xyZP54i10KPmsgPydyebI1yqzML22+Qyl4mDmCaqD6fQBJjbw3pW5iXz8YKhEOEST2T13ynbeIG5HwDnievjfeJvgNCup0oi7uNMKuuRdamMWqctu5CzmqnzRhGvuL1lREWvzTNbyOKu6T8qW9FpFopgSyx9gXszDQdqEYxgU5VUNgUBcmq/VbDFVhlIUUgpuFGqu3YkpXoBtvV1fPSSLw6+Q7baAyTKG3zY4S1WS/WbnUloMhRGdWXnySt0vBwDi0icgdByGG9S36O3dpXT8w4sQr07jp5oa/Y240DwT3JwRAt+pN9rzlukiKHHK55nm82gdhI5evynKf9IkvfMoU00g3fb0TYkxyX9wPlkVpd2jWWliGPrbuXoNpYIzeY6sW4Z5sAICsn7fTbWPcSqbL+sgBWh6O7p9fQcezaocgQ9k/iqjNIPNv+ZwA5+z7RFCnRWz4az03VHynkS31XOAF+eYT20l5083Wswq4bTjYs5LdIxEReBC8CUWFxyxyBGHnoFYNxKYI1nLTw=
+  encrypted_text: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSguFU+kjMTebNp7xcWk2BalwGr2tNQLXejulI1kZPZEsasWKC+N5dMSdOpvj7s6IUoOzTTIX2XXvpolxSw5yta4bWGBgFubVChZ+Jm53LqOio1hkO2umm20V1HDHzdqUsPZe+3WBwdIPNEUcRjvAci/EeZS0SmpR41qbcb4LNSXy50FXZJ4f0qL/2s+9vlJF1TgwCr1fpZZrnP2upP+64q9jSWZyI/EGdhX/8KgOX+ZRFziHEF94Gqvg4mxpNQv9SvhPrx0pXvQhL8D2Qp/3tt1f4WnD15CHLCj0bLKGQ0cPxVx9r47FzHzkvB/k0oR1gt3PgKMPUDKGdrlQnraQSrS5ogO3bU55VxSNYR0E+H6SzmMJFbSeJNF7DR9KTbM+00b173guU8RbklxAtuXD0b8g61laTG7YB5kXLGyumchhgfe/Iw9yV9JfavtNzjVpK9+WlKGnOxZwyTIwhJkiM42AqSBNMtHrNq7aY05zXkba+oDME55L2HWn6iXfb4SPYTlERuUnujmJU9yyqAhvEzE88mcV+dOEW4t9WMzp10Jp9c5SAEk6hgiCZY1Md3XmOX7I2oNhD02v2XdUzNSWZ/ctCo45bxufOVqOJ5NVa5ZXcPsZImptLiUZaJNazVtt315iilYcrhiRUl1nsgP3U6z57cIlfmfsVvmYOikuY1JrY/omwduIAvGXM0I67G7Qzc1vqEaASFENtb83wB8n+I3DM1B86ksoVG9T9FXOjOrdnQyap6rgiFgJp6FOxfZ3NpGpGHphcBRgHb9APMxrgQsZttJ4Q7MwOezp6OKLIyFr+0/lZkIoU8mrCT8kP3I48PZMvKge/Ox7MxaYZAt6f+pl2WaBLXl6OzmCWIGXzmhIxU5XEIq3Teit7z5iZRYZ5IRviDhj57rQFOgs1AyKQgCUugJxjPBiQFnK1DC9SVzT/wu7905RS/1NHxR/jKxdO4TgZMXVIoGx9L1y2xJMsX6TtxhueSAKphcOERFuTKMd71mj/u53i2IyLhe9Noe9S1q497IWlcrodZSWsnCcfuCRRzfOCHwo1Zv2wogGmswk7fvouYfn28XAoVitgFnHKY1H5DzvodP3JugvoyY214StHMaby9975O34nxfktPfmYgIBpFLVc6nRJwX1LkZojwiyTw9anO4ANbAqKc8B1/qzrOcWDI6jSQVH/77JUb3Y04NeodQTtCKw7nvFeBHignyorsZVuIh7x40dS/H5eehjVJbqouDprppiubj4cdGM6ytIaEjdj9IG0u69mtxdRvBaRSGcV0lY9NYTy2oH6E2+lRv3n0AlvO93/zJft7Xn18xq/OFUXBMQWvKSIGxXY/UW2UPBiMMtdZVO6tf9eRCPuwTCaera6npdNBeNiWN//bOVt9D2gXVfz0zlGhkz8fTAPDlsP575FtyncbKjd4xSAjLStcK/aIEmPpOUNc+Ew+5LxAJlxsXBuu77fx5I454LMBr66bTUJ0do2zX8arZKRkb0wBnpVbCccQmR0+82pncokK18xBQ8Ysa7gqNY2Cm2feYX7lVhRdw88XAkpQaqhhG4PpwR5CrKA3sPT6+31BMiTUhKgBQ5qBfweqvpGbuPah8s3l6shjdHoZJk8FQSH3uRlSNxhT9kjfPEtMXd
+  learner_created: false
+- name: css/styles.css
+  visible: true
+  encrypted_text: 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
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

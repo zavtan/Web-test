@@ -1,0 +1,31 @@
+type: edu
+files:
+- name: main.py
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: Yl0wunnwFa9CONNAmTVnYHIQR6xxQi97iQH8ljMpC2CI0lyvHVGHgqJOflYLB/bzJnC8OgY/yG8oy3BycZVqCNB2vkjyIT/xjHB1kyk7uW3WaLBMDGJEHiAoF/60/sumHRVgd8HajnkAQuYSLJu+ca/pFKDpOm1NqnJj9loIMTVR5jCTyZWjY5cnsPfyxQPWmcS5UvOfV9ulCRCk5K9aG03Zy/WJSXBziQPgDlMcU4jAR8OiluNIwB0P7qRKoIcKbiSI5j+rEirI4gMlWBcsduhxi/YDCDLXqeelll3XK+qin3bcaMBpPwTO1ROVCQlJHuMRK7AArnbPENckOtOKwOzbWABFOF/ajeWTZac81gacUDVKbUplwfwUkbJC1Xwj+HKhoAhdIlZDwk98KjQkDA2pkVLyyN1NKqbfWk3gB1Ae5rWk3zxmfgJ7ipNmCocWWPlCaGSfPh+46pYokSnln8hY71eLQYP7DnwIIva7aCA=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: example.html
+  visible: false
+  encrypted_text: MDmo0BDmYPgVilQBNgV6/LuKmwdaX6P32RqDLOcIYU0NI6O8Cr9wkZkqQI7vuIuEUjbj20/AKsWoLv8VZQXg06LSZwttQhaRaF99fWDXQSmci0J0fNmwTIVOZYpGzJl0y5aY4prULpdhgpbcYYW/mzJyVhsBvMmloxTJHCrd+gkI6E/Kz2ZjWQ2fz8Sf4KJ2dHWUTAEL1oi1lPQT41Bj+ZS18Fg5W1TH03Qj+bkdS+gDe8OMrbfWqiCKH/N8lpYdJmk71yLxdukinsQlIL9qOpuXXg+s2nDB7ORj4YirSW0=
+  learner_created: false
+- name: mayWeb.html
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 08 Dec 2023 15:01:46 UTC"
+record: -1
